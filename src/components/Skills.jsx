@@ -7,7 +7,7 @@ import {
   SiMongodb,
   SiMongoose,
   SiHtml5,
-  SiCss3,
+  SiCss,
   SiJquery,
   SiNpm,
   SiTailwindcss,
@@ -32,7 +32,7 @@ const skillCategories = [
       { icon: <SiRedux />, name: "Redux", color: "#764ABC" },
       { icon: <SiTailwindcss />, name: "Tailwind CSS", color: "#38B2AC" },
       { icon: <SiHtml5 />, name: "HTML5", color: "#E34F26" },
-      { icon: <SiCss3 />, name: "CSS3", color: "#1572B6" },
+      { icon: <SiCss />, name: "CSS3", color: "#1572B6" },
     ],
   },
   {
